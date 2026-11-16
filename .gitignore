@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.npz
+possession_file.csv
+TECHNICAL_DOCUMENT.md
+TECHNICAL_DOCUMENT.pdf
+data/broadcast/*
+!data/broadcast/.gitkeep
+data/tactical/*
+!data/tactical/.gitkeep
